@@ -1,0 +1,14 @@
+
+spring:
+  application:
+    name: messagingapp
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Iv1.a397db2b2eeede77
+            client-secret: c43ae51fad9f1f63177ae19186db79c85ce710d9
+  data:
+    cassandra
+
